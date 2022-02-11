@@ -14,78 +14,91 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet">
 </head>
 
-<body>
+<body class="container">
     <!-- HEADER -->
     <header class="container">
         <h1>RACHEL E YARKONY</h1>
         <h2>junior front end web developer</h2>
     </header>
-    <nav class="justify-content-end">
+    <nav>
         <ul>
-            <a class="nav-link" href="#aboutmeClick">ABOUT ME</a>
-            <a class="nav-link" href="#workClick">WORK</a>
-            <a class="nav-link" href="#contactClick">CONTACT</a>
+            <a class="nav-link" href="#aboutMeClick" id="caption">ABOUT ME</a>
+            <a class="nav-link" href="#workClick" id="caption">WORK</a>
+            <a class="nav-link" href="#contactClick" id="caption">CONTACT</a>
 
         </ul>
     </nav>
     <!-- INCLUDES NAME, TABS FOR DIFFERENT SECTIONS OF PAGE-->
-    <section class="container">
+    <section id="sectionone" class="container ms-auto">
         <div>
             <!-- click takes you to new page -->
-            <a id="aboutMeClick">ABOUT</a>
+            <div id="abtmesection">
+                <a id="aboutMeClick">ABOUT</a>
+                <img src="./assets/images/headshot.png" class="float-end mx-auto rounded-circle" style="width: 200px;"
+                    alt="Headshot of Rachel">
+            </div>
             <p>rachel is a junior front end web developer. she graduates from
                 northwestern university's school of professional studies coding bootcamp, may 2022.
                 when she's not programming, she loves to spend as much time as possible
                 with her pup buttercup. </p>
         </div>
+        </div>
     </section>
-    <section class="container">
-        <div>
+    <section id="sectionone" class="container ms-auto">
+        <div id="twork">
             <!-- click takes you to new page -->
             <a id="workClick">WORK</a>
             <div>
-                <figure class="figure"><a href="https://the-camelcasers.github.io/project/">Do You Need an Umbrella?
+                <figure class="figure"><a href="https://the-camelcasers.github.io/project/" id="caption">Do You Need an
+                        Umbrella?
                     </a>
                     <br>
                     <img src="./assets/images/DoYouNeedanUmbrella.gif" class="figure-img img-fluid rounded"
                         alt="Gif of project 1">
-                    <figcaption class="figure-caption text-end">Do You Need an Umbrella? First Group Project.
+                    <figcaption class="figure-caption text-end" id="caption">Do You Need an Umbrella? First Group
+                        Project.
                         </a>
                     </figcaption>
                 </figure>
             </div>
             <div>
-                <figure class="figure"><a href="https://buttercupsmom.github.io/hw5/">Daily Planner
+                <figure class="figure"><a href="https://buttercupsmom.github.io/hw5/" id="caption">Daily Planner
                     </a>
                     <br>
                     <img src="./assets/images/screenshotofplanner.png" class="figure-img img-fluid rounded"
                         alt="daily planner image">
-                    <figcaption class="figure-caption text-end">Fifth Homework Assignment</figcaption>
+                    <figcaption class="figure-caption text-end" id="caption">Fifth Homework Assignment</figcaption>
                 </figure>
             </div>
             <div>
-                <figure class="figure"><a href="https://buttercupsmom.github.io/hw-6/">Weather Dashboard
+                <figure class="figure"><a href="https://buttercupsmom.github.io/hw-6/" id="caption">Weather Dashboard
                     </a>
                     <br>
                     <img src="./assets/images/WeatherDashboard.gif" class="figure-img img-fluid rounded"
                         alt="weather dashboard gif">
-                    <figcaption class="figure-caption text-end">Sixth Homework Assignment</figcaption>
+                    <figcaption class="figure-caption text-end" id="caption">Sixth Homework Assignment</figcaption>
                 </figure>
             </div>
         </div>
     </section>
-    <section class="container">
-        <div id="contactClick">CONTACT
-            <ul>
-                <li><a href="https://github.com/buttercupsmom">github</a>
+    <section id="sectionone" class="container ms-auto">
+        <div id="contactizzle">
+            <a id="contactClick">CONTACT</a>
+        </div>
+        <div>
+            <ul id="caption">
+                <li><a href="https://github.com/buttercupsmom" id="caption">github</a>
                 </li>
-                <li><a href="https://www.linkedin.com/in/rachelehaddad/">linkedin</a>
+                <li><a href="https://www.linkedin.com/in/rachelehaddad/" id="caption">linkedin</a>
                 </li>
                 <li>
-                    resume
+                    <a href="./assets/images/Rachel Haddad Resume.png" target="_blank" onclick="openNewWindow()"
+                        id="caption">resume
+                    </a>
+
+
                 </li>
-                <li>
-                    email
+                <li> <a href="mailto:yarkony.rachel@gmail.com" id="caption">email</a>
                 </li>
             </ul>
         </div>

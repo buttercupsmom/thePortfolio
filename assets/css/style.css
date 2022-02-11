@@ -1,3 +1,67 @@
+:root {
+  --background-color: #d9a796;
+  --text-color: #374e34;
+}
+
 body {
+  background-color: var(--background-color);
+  color: var(--text-color);
   font-family: "Roboto Condensed", sans-serif;
+}
+
+header {
+  border-bottom: 4px solid;
+  border-radius: 5;
+  border-color: var(--text-color);
+  color: var(--text-color);
+  font: bold;
+  padding: 60px;
+  justify-content: space-evenly;
+  align-items: end;
+}
+h1 {
+  font-size: 48px;
+  font-style: bold;
+}
+
+h2 {
+  font-size: 48px;
+  font-style: bold;
+}
+
+nav {
+  border: 4px transparent;
+  border-radius: 5;
+  color: var(--text-color);
+  padding: 60px;
+  text-align: end;
+  display: flex-row;
+}
+
+.nav-link {
+  font-size: 30px;
+}
+
+#abtmesection {
+  font-size: 30px;
+}
+
+#contactizzle {
+  font-size: 30px;
+}
+
+#sectionone {
+  border: 6px transparent;
+  border-radius: 5;
+  flex-wrap: wrap;
+  font-size: 22px;
+  padding: 40px;
+}
+
+#twork {
+  font-size: 30px;
+}
+
+#caption {
+  color: var(--text-color);
 }
