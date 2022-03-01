@@ -29,7 +29,7 @@
 
 ## Gif of Portfolio
 
-![Weather Dashboard Gif](./assets/images/portfolio-screen-shot.gif)
+![Portfolio Screenshot](./assets/images/portfolio-screen-shot.gif)
 
 ## Author
 
