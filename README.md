@@ -1,5 +1,18 @@
 # thePortfolio
 
+![Licesnse: MIT](https://img.shields.io/badge/badge-MIT-blue)
+
+## Table of Contents
+
+- [Decscription](./README.md#description)
+- [Technologies Used](./README.md#technologies-used)
+- [Behavior](./README.md#behavior)
+- [Screenshot](./README.md#screenshot)
+- [Author](./README.md#author)
+- [Credits](./README.md#credits)
+- [Links](./README.md#links)
+- [Questions](./README.md#questions)
+
 ## Description
 
 - Version 2.0 of Rachel Haddad's personal portfolio.
@@ -27,7 +40,7 @@
 
 - WHEN user wants to send an email to me, THEN user clicks email link, THEN user is sent send an email.
 
-## Gif of Portfolio
+## Screenshot
 
 ![Portfolio Screenshot](./assets/images/portfolio-screen-shot.gif)
 
@@ -41,5 +54,12 @@
 
 ## Links
 
-- Here is the Repo: [https://github.com/buttercupsmom/thePortfolio]
-- Here is the Page: [https://buttercupsmom.github.io/thePortfolio//]
+- Here is the repo: [Repo](https://github.com/buttercupsmom/thePortfolio)
+- Here is the page: [Page](https://buttercupsmom.github.io/thePortfolio//)
+
+## Questions
+
+If you have any further questions or comments:
+
+- Direct message me on GitHub: [https://github.com/buttercupsmom](https://github.com/buttercupsmom)
+- Email me: [yarkony.rachel@gmail.com](mailto:yarkony.rachel@gmail.com)
