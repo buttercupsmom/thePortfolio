@@ -59,9 +59,14 @@ nav {
 }
 
 #twork {
-  font-size: 30px;
+  font-size: 40px;
 }
 
 #caption {
+  color: var(--text-color);
+}
+
+#umbrella {
+  font-size: 30px;
   color: var(--text-color);
 }
