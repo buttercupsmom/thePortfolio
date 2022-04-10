@@ -15,7 +15,7 @@
 
 ## Description
 
-- Version 2.0 of Rachel Haddad's personal portfolio.
+### Version 3.0 of Rachel Haddad's personal portfolio.
 
 ## Technologies Used
 
@@ -61,5 +61,5 @@
 
 If you have any further questions or comments:
 
-- Direct message me on GitHub: [https://github.com/buttercupsmom](https://github.com/buttercupsmom)
-- Email me: [yarkony.rachel@gmail.com](mailto:yarkony.rachel@gmail.com)
+- Direct message me on [GitHub](https://github.com/buttercupsmom)
+- [Email me](mailto:yarkony.rachel@gmail.com)

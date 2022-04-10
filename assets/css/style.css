@@ -16,6 +16,7 @@ header {
   color: var(--text-color);
   font: bold;
   padding: 60px;
+  position: sticky;
   justify-content: space-evenly;
   align-items: end;
 }
@@ -33,7 +34,7 @@ nav {
   border: 4px transparent;
   border-radius: 5;
   color: var(--text-color);
-  padding: 60px;
+  /* padding: 60px; */
   text-align: end;
   display: flex-row;
 }
@@ -43,19 +44,36 @@ nav {
 }
 
 #abtmesection {
-  font-size: 30px;
+  font-size: 40px;
+}
+
+#bio {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 #contactizzle {
-  font-size: 30px;
+  font-size: 40px;
+}
+#image {
+  padding-top: 70px;
+  padding-right: 30px;
+  float: right;
+  max-width: 300px;
 }
 
 #sectionone {
-  border: 6px transparent;
-  border-radius: 5;
+  border-bottom: 4px solid;
   flex-wrap: wrap;
-  font-size: 22px;
-  padding: 40px;
+  font-size: 25px;
+  padding: 80px;
+}
+
+#sectiontwo {
+  border-bottom: 4px solid #374e34;
+  font-size: 25px;
+  padding: 80px;
+  flex-wrap: wrap;
 }
 
 #twork {
@@ -64,9 +82,11 @@ nav {
 
 #caption {
   color: var(--text-color);
+  font-size: 25px;
 }
 
 #umbrella {
   font-size: 30px;
   color: var(--text-color);
+  padding-bottom: 60px;
 }
