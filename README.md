@@ -9,7 +9,6 @@
 - [Behavior](./README.md#behavior)
 - [Screenshot](./README.md#screenshot)
 - [Author](./README.md#author)
-- [Credits](./README.md#credits)
 - [Links](./README.md#links)
 - [Questions](./README.md#questions)
 
@@ -44,24 +43,18 @@ WHEN user wants to send an email to me, THEN user clicks email link, THEN user i
 
 ## Screenshot
 
-![Portfolio Screenshot](./assets/images/portfolio-screen-shot.gif)
-
 ## Author
 
 - Rachel Haddad
 
-## Credits
-
-- Stackoverflow.com, user: Quentin
-
-## Links
+### Links
 
 - Here is the repo: [Repo](https://github.com/buttercupsmom/thePortfolio)
-- Here is the page: [Page](https://buttercupsmom.github.io/thePortfolio//)
+- Here is the page: [Page](https://buttercupsmom.github.io/thePortfolio/)
 
 ## Questions
 
-If you have any further questions or comments:
+### If you have any further questions or comments:
 
 - Direct message me on [GitHub](https://github.com/buttercupsmom)
 - [Email me](mailto:yarkony.rachel@gmail.com)
