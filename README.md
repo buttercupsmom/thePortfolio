@@ -43,6 +43,8 @@ WHEN user wants to send an email to me, THEN user clicks email link, THEN user i
 
 ## Screenshot
 
+![Rachel's Portfolio](./assets/images/Screen%20Shot%202022-04-14%20at%202.58.24%20PM.png)
+
 ## Author
 
 - Rachel Haddad
